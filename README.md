@@ -1,7 +1,5 @@
 # Surfs Up!
 
-![surfs-up.jpeg](Images/surfs-up.jpeg)
-
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
 
 ## Step 1 - Climate Analysis and Exploration
@@ -123,7 +121,3 @@ Now that you have completed your initial analysis, design a Flask API based on t
 * You will need to join the station and measurement tables for some of the analysis queries.
 
 * Use Flask `jsonify` to convert your API data into a valid JSON response object.
-
-## Copyright
-
-Data Boot Camp ©2018. All Rights Reserved.
